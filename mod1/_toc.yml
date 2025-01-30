@@ -1,0 +1,16 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: welcome
+chapters:
+- file: introduction
+- file: spatial-thinking
+- file: maps
+- file: why
+- file: activity
+- file: advanced-activity
+
+# - file: markdown
+# - file: notebooks
+# - file: markdown-notebooks
